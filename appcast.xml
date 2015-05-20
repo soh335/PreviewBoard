@@ -5,14 +5,14 @@
 <link>https://github.com/soh335/PreviewBoard</link>
 
 <item>
-<title>PreviewBoard Version 0.0.3</title>
+<title>PreviewBoard Version 0.0.4</title>
 <description>
 <![CDATA[
-* 0.0.3
+* minor fix
 ]]>
 </description>
-<pubDate>Wed, 20 May 2015 15:24:25 +0900</pubDate>
-<enclosure url="https://soh335.github.io/PreviewBoard/latest.zip" sparkle:version="0.0.3" sparkle:shortVersionString="0.0.3" length="2555124" type="application/octet-stream" sparkle:dsaSignature="MCwCFGZyM0um2Z9WBg49XlRbeQ0PWxApAhRVNK+ULGO0V81STBfKpk+I0ToIDg==" />
+<pubDate>Wed, 20 May 2015 15:39:55 +0900</pubDate>
+<enclosure url="https://soh335.github.io/PreviewBoard/latest.zip" sparkle:version="0.0.4" sparkle:shortVersionString="0.0.4" length="2555069" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCror5FsQl2elOQnu9PkP/dpmT6MAIVAIOs41NYJvdiGpiKIECCViFaMJ0i" />
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 </item>
 </channel>
